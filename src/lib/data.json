@@ -1,0 +1,133 @@
+{
+	"id": "hp1",
+	"title": "Harry Potter and the Philosopher's Stone",
+	"author": "J.K. Rowling",
+	"bookNumber": 1,
+	"thumbnail": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/Harry%20Potter%20and%20The%20Philosopher%27s%20Stone.jpg",
+	"source": "https://archive.org/details/harry-potter-and-the-philosophers-stone_20250104",
+	"language": "English",
+	"genres": ["Fantasy", "Adventure", "Audiobook"],
+	"releaseYear": 1997,
+	"provider": "Internet Archive",
+	"chapters": [
+		{
+			"id": "hp1-ch1",
+			"number": 1,
+			"title": "The Boy Who Lived",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2001%20-%20The%20Boy%20Who%20Lived.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch2",
+			"number": 2,
+			"title": "The Vanishing Glass",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2002%20-%20The%20Vanishing%20Glass.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch3",
+			"number": 3,
+			"title": "The Letters From No One",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2003%20-%20The%20Letters%20From%20No%20One.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch4",
+			"number": 4,
+			"title": "The Keeper of the Keys",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2004%20-%20The%20Keeper%20of%20the%20Keys.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch5",
+			"number": 5,
+			"title": "Diagon Alley",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2005%20-%20Diagon%20Alley.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch6",
+			"number": 6,
+			"title": "The Journey from Platform Nine and Three-Quarters",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2006%20-%20The%20Journey%20From%20Platform%20Nine%20and%20Three%20Quarters.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch7",
+			"number": 7,
+			"title": "The Sorting Hat",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2007%20-%20The%20Sorting%20Hat.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch8",
+			"number": 8,
+			"title": "The Potions Master",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2008%20-%20The%20Potions%20Master.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch9",
+			"number": 9,
+			"title": "The Midnight Duel",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2009%20-%20The%20Midnight%20Duel.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch10",
+			"number": 10,
+			"title": "Halloween",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2010%20-%20Halloween.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch11",
+			"number": 11,
+			"title": "Quidditch",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2011%20-%20Quidditch.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch12",
+			"number": 12,
+			"title": "The Mirror of Erised",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2012%20-%20The%20Mirror%20of%20Erised.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch13",
+			"number": 13,
+			"title": "Nicolas Flamel",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2013%20-%20Nicolas%20Flamel.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch14",
+			"number": 14,
+			"title": "Norbert the Norwegian Ridgeback",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2014%20-%20Norbert%20the%20Norwegian%20Ridgeback.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch15",
+			"number": 15,
+			"title": "The Forbidden Forest",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2015%20-%20The%20Forbidden%20Forest.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch16",
+			"number": 16,
+			"title": "Through the Trapdoor",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2016%20-%20Through%20the%20Trapdoor.mp3",
+			"duration": null
+		},
+		{
+			"id": "hp1-ch17",
+			"number": 17,
+			"title": "The Man with Two Faces",
+			"audioUrl": "https://archive.org/download/harry-potter-and-the-philosophers-stone_20250104/HP1%20-%20The%20Philosopher%27s%20Stone%20-%20Chapter%2017%20-%20The%20Man%20With%20Two%20Faces.mp3",
+			"duration": null
+		}
+	]
+}
