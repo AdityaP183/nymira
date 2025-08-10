@@ -6,6 +6,7 @@ import {
 	varchar,
 } from "drizzle-orm/pg-core";
 import { libraries } from "./library";
+import { userProgress } from "./user_progress";
 
 export const users = table("users", {
 	id: uuid("id").primaryKey().defaultRandom(),
@@ -18,9 +19,10 @@ export const users = table("users", {
 	updatedAt: timestamp("updated_at").defaultNow(),
 });
 
-export const userRelations = relations(users, ({ one }) => ({
+export const userRelations = relations(users, ({ one, many }) => ({
 	library: one(libraries, {
 		fields: [users.id],
 		references: [libraries.userId],
 	}),
+	userProgress: many(userProgress),
 }));

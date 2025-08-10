@@ -17,7 +17,8 @@ export const audiobooks = table("audiobooks", {
 	id: uuid("id").primaryKey().defaultRandom(),
 	title: varchar("title", { length: 256 }).notNull(),
 	description: text("description"),
-	thumbnailUrl: text("thumbnail_url"),
+	coverImage: text("thumbnail_url"),
+	bannerImage: text("thumbnail_url"),
 	categoryId: uuid("category_id")
 		.references(() => categories.id)
 		.notNull(),
